@@ -7,6 +7,7 @@ public class Myp1Test {
 	public void m1()
 	{
 		System.out.println("Hi");
+		System.out.println("world");
 	}
 
 }
